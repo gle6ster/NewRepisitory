@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Projects.DAL</name>
+    </assembly>
+    <members>
+        <member name="P:Projects.DAL.DALUnitOfWork.projects">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Projects.DAL.Domain.Project.#ctor(System.Int32,System.String,System.Int32,System.String,System.DateTime,System.DateTime)">
+            <summary>
+            Project содержит в себе информацию об имени исполнителя, его id и id его менеджера, датах начала и конца задачи и её описании
+            </summary>
+            <param name="id"></param>
+            <param name="name"></param>
+            <param name="managerid"></param>
+            <param name="description"></param>
+            <param name="projectstart"></param>
+            <param name="projectend"></param>
+        </member>
+        <member name="T:Projects.DAL.Repositories.IRepository`1">
+            <summary>
+            Интерфейс, который отвечает за объявление CRUD методов
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:Projects.DAL.Repositories.ProjectRepository.Create(Projects.DAL.Domain.Project)">
+            <summary>
+            Этот метод создает объект
+            </summary>
+            <param name="item"></param>
+        </member>
+        <member name="M:Projects.DAL.Repositories.ProjectRepository.Delete(System.Int32)">
+            <summary>
+            Этот метод отвечает за удаление объекта по id
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:Projects.DAL.Repositories.ProjectRepository.Get(System.Int32)">
+            <summary>
+            Метод отвечает за получение одного объекта по id
+            </summary>
+            <param name="id"></param>
+            <returns>Метод возвращает Project по соответствующему id, который содержит id, имя, id менеджера, дату начала и окончания сроков реализации задачи и её описание</returns>
+        </member>
+        <member name="M:Projects.DAL.Repositories.ProjectRepository.GetAll">
+            <summary>
+            Метод отвечающий за получение всех объектов 
+            </summary>
+            <returns>Возвращает все объекты Project</returns>
+        </member>
+        <member name="M:Projects.DAL.Repositories.ProjectRepository.Update(Projects.DAL.Domain.Project)">
+            <summary>
+            Метод, отвечающий за обновление объекта с соответсвующим id
+            </summary>
+            <param name="item"></param>
+        </member>
+    </members>
+</doc>

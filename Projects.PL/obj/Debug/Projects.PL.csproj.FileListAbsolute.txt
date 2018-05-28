@@ -68,3 +68,6 @@ E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\obj\Debug
 E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\obj\Debug\Projects.PL.csproj.GenerateResource.Cache
 E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\obj\Debug\Projects.PL.exe
 E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\obj\Debug\Projects.PL.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Projects.mdf
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Projects_log.ldf
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Projects.DAL.xml

@@ -102,3 +102,4 @@ E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests
 E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\obj\Debug\Projects.BL.UnitTests.csprojResolveAssemblyReference.cache
 E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\obj\Debug\Projects.BL.UnitTests.dll
 E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\obj\Debug\Projects.BL.UnitTests.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Projects.DAL.xml

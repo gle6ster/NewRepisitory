@@ -13,7 +13,9 @@ namespace Projects.DAL
     public class DALUnitOfWork : IUnitOfWork
     {
         ProjectRepository ProjectRepository;
-
+        /// <summary>
+        /// 
+        /// </summary>
         public IRepository<Project> projects
         {
             get

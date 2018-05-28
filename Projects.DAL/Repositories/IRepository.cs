@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Projects.DAL.Repositories
 {
+    /// <summary>
+    /// Интерфейс, который отвечает за объявление CRUD методов
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     public interface IRepository<T> where T : class
     {
         IEnumerable<T> GetAll(); //получение всех объектов

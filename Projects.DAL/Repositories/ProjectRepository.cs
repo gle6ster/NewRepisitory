@@ -12,7 +12,6 @@ namespace Projects.DAL.Repositories
     public class ProjectRepository : IRepository<Project>
     {
         SqlConnection sqlConnection;
-
         public ProjectRepository()
         {
             string connectionstring = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=
@@ -20,7 +19,10 @@ namespace Projects.DAL.Repositories
 
             sqlConnection = new SqlConnection(connectionstring); //открытое подключение к базе данных SQL Server.
         }
-
+        /// <summary>
+        /// Этот метод создает объект
+        /// </summary>
+        /// <param name="item"></param>
         public void Create(Project item)
         {
             sqlConnection.Open(); //Открывает подключение к базе данных со значениями свойств, определяемыми объектом ConnectionString
@@ -37,7 +39,10 @@ namespace Projects.DAL.Repositories
             sqlConnection.Close(); //Закрывает соединение с базой данных.
 
         }
-
+        /// <summary>
+        /// Этот метод отвечает за удаление объекта по id
+        /// </summary>
+        /// <param name="id"></param>
         public void Delete(int id)
         {
             sqlConnection.Open();
@@ -47,7 +52,11 @@ namespace Projects.DAL.Repositories
             command.ExecuteNonQuery();
             sqlConnection.Close();
         }
-
+        /// <summary>
+        /// Метод отвечает за получение одного объекта по id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>Метод возвращает Project по соответствующему id, который содержит id, имя, id менеджера, дату начала и окончания сроков реализации задачи и её описание</returns>
         public Project Get(int id)
         {
             sqlConnection.Open();
@@ -75,7 +84,10 @@ namespace Projects.DAL.Repositories
             }
             
         }
-
+        /// <summary>
+        /// Метод отвечающий за получение всех объектов 
+        /// </summary>
+        /// <returns>Возвращает все объекты Project</returns>
         public IEnumerable<Project> GetAll()
         {
             sqlConnection.Open();
@@ -97,7 +109,10 @@ namespace Projects.DAL.Repositories
             }
             sqlConnection.Close();
         }
-
+        /// <summary>
+        /// Метод, отвечающий за обновление объекта с соответсвующим id
+        /// </summary>
+        /// <param name="item"></param>
         public void Update(Project item)
         {
             sqlConnection.Open();

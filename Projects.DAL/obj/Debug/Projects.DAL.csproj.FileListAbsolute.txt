@@ -50,3 +50,4 @@ E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.DAL\bin\Debu
 E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.DAL\obj\Debug\Projects.DAL.csprojResolveAssemblyReference.cache
 E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.DAL\obj\Debug\Projects.DAL.dll
 E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.DAL\obj\Debug\Projects.DAL.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.DAL\bin\Debug\Projects.DAL.XML

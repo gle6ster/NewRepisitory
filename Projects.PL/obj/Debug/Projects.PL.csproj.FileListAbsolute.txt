@@ -1,0 +1,70 @@
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Projects.PL.exe.config
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Projects.PL.exe
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Projects.PL.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\obj\Debug\Projects.PL.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\Projects\Projects.PL\obj\Debug\Projects.PL.Form1.resources
+C:\Users\Олег\source\repos\Projects\Projects.PL\obj\Debug\Projects.PL.Properties.Resources.resources
+C:\Users\Олег\source\repos\Projects\Projects.PL\obj\Debug\Projects.PL.csproj.GenerateResource.cache
+C:\Users\Олег\source\repos\Projects\Projects.PL\obj\Debug\Projects.PL.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\Projects\Projects.PL\obj\Debug\Projects.PL.exe
+C:\Users\Олег\source\repos\Projects\Projects.PL\obj\Debug\Projects.PL.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\AutoMapper.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\CommonServiceLocator.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Projects.BL.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.Abstractions.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.Configuration.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.Container.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.Interception.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Projects.DAL.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Projects.BL.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\AutoMapper.xml
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\CommonServiceLocator.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.Configuration.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.Container.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.Interception.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Projects.DAL.pdb
+C:\Users\Олег\source\repos\Projects\Projects.PL\obj\Debug\Projects.PL.csproj.CopyComplete
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Ninject.dll
+C:\Users\Олег\source\repos\Projects\Projects.PL\bin\Debug\Ninject.xml
+C:\Users\Олег\source\repos\Projects\Projects.PL\obj\Debug\Projects.PL.AddForm.resources
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Projects.PL.exe.config
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Projects.PL.exe
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Projects.PL.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\AutoMapper.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\CommonServiceLocator.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Ninject.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Projects.BL.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.Abstractions.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.Configuration.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.Container.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.Interception.Configuration.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.Interception.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.RegistrationByConvention.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.ServiceLocation.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Projects.DAL.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Projects.BL.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\AutoMapper.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\CommonServiceLocator.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Ninject.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.Abstractions.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.Configuration.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.Container.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.Interception.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.Interception.Configuration.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.RegistrationByConvention.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Unity.ServiceLocation.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\bin\Debug\Projects.DAL.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\obj\Debug\Projects.PL.csprojResolveAssemblyReference.cache
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\obj\Debug\Projects.PL.AddForm.resources
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\obj\Debug\Projects.PL.Form1.resources
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\obj\Debug\Projects.PL.Properties.Resources.resources
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\obj\Debug\Projects.PL.csproj.GenerateResource.Cache
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\obj\Debug\Projects.PL.exe
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.PL\obj\Debug\Projects.PL.pdb

@@ -1,0 +1,60 @@
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Projects.BL.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Projects.BL.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL\obj\Debug\Projects.BL.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\Projects\Projects.BL\obj\Debug\Projects.BL.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\Projects\Projects.BL\obj\Debug\Projects.BL.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\obj\Debug\Projects.BL.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Projects.mdf
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Projects_log.ldf
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\AutoMapper.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\CommonServiceLocator.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Projects.DAL.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.Abstractions.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.Configuration.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.Container.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.Interception.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Projects.DAL.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\AutoMapper.xml
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\CommonServiceLocator.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.Configuration.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.Container.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.Interception.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL\obj\Debug\Projects.BL.csproj.CopyComplete
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Ninject.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL\bin\Debug\Ninject.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Projects.mdf
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Projects_log.ldf
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Projects.BL.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Projects.BL.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\AutoMapper.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\CommonServiceLocator.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Ninject.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Projects.DAL.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.Abstractions.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.Configuration.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.Container.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.Interception.Configuration.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.Interception.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.RegistrationByConvention.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.ServiceLocation.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Projects.DAL.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\AutoMapper.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\CommonServiceLocator.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Ninject.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.Abstractions.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.Configuration.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.Container.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.Interception.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.Interception.Configuration.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.RegistrationByConvention.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\bin\Debug\Unity.ServiceLocation.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\obj\Debug\Projects.BL.csprojResolveAssemblyReference.cache
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\obj\Debug\Projects.BL.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL\obj\Debug\Projects.BL.pdb

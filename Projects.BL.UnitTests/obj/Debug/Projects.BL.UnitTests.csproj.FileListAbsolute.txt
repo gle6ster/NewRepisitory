@@ -1,0 +1,104 @@
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Projects.BL.UnitTests.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Projects.BL.UnitTests.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Projects.BL.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Projects.BL.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\obj\Debug\Projects.BL.UnitTests.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\obj\Debug\Projects.BL.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\obj\Debug\Projects.BL.UnitTests.csproj.CopyComplete
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\obj\Debug\Projects.BL.UnitTests.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\obj\Debug\Projects.BL.UnitTests.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Projects.mdf
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Projects_log.ldf
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\TestDB.mdf
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\AutoMapper.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\CommonServiceLocator.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Moq.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Projects.DAL.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.Abstractions.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.Configuration.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.Container.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.Interception.Configuration.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.Interception.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.RegistrationByConvention.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.ServiceLocation.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Projects.DAL.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\AutoMapper.xml
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\CommonServiceLocator.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Moq.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Moq.xml
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\System.ValueTuple.xml
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.Configuration.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.Container.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.Interception.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.Interception.Configuration.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.RegistrationByConvention.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Unity.ServiceLocation.pdb
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Ninject.dll
+C:\Users\Олег\source\repos\Projects\Projects.BL.UnitTests\bin\Debug\Ninject.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Projects.mdf
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Projects_log.ldf
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\TestDB.mdf
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Projects.BL.UnitTests.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Projects.BL.UnitTests.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\AutoMapper.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Castle.Core.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\CommonServiceLocator.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Moq.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Projects.BL.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Projects.DAL.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\System.ValueTuple.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.Abstractions.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.Configuration.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.Container.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.Interception.Configuration.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.Interception.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.RegistrationByConvention.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.ServiceLocation.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Ninject.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Projects.BL.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Projects.DAL.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\AutoMapper.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Castle.Core.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\CommonServiceLocator.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Moq.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Moq.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\System.ValueTuple.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.Abstractions.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.Configuration.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.Container.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.Interception.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.Interception.Configuration.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.RegistrationByConvention.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Unity.ServiceLocation.pdb
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\bin\Debug\Ninject.xml
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\obj\Debug\Projects.BL.UnitTests.csprojResolveAssemblyReference.cache
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\obj\Debug\Projects.BL.UnitTests.dll
+E:\KPI\6 semestr\Project\Projects-Changes\Projects-Changes\Projects.BL.UnitTests\obj\Debug\Projects.BL.UnitTests.pdb
